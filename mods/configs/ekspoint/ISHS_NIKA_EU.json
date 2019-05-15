@@ -1,0 +1,488 @@
+﻿{
+    "china:Ch03_WZ-111": [
+        null,
+        null,
+        null
+    ],
+    "china:Ch19_121": [
+        null,
+        null,
+        null
+    ],
+    "china:Ch22_113": [
+        null,
+        null,
+        null
+    ],
+    "china:Ch23_112": [
+        null,
+        null,
+        null
+    ],
+    "china:Ch24_Type64": [
+        null,
+        1785,
+        null
+    ],
+    "china:Ch28_WZ_132A": [
+        null,
+        null,
+        null
+    ],
+    "china:Ch29_Type_62C_prot": [
+        null,
+        null,
+        null
+    ],
+    "czech:Cz04_T50_51": [
+        null,
+        null,
+        null
+    ],
+    "france:F08_AMX_50_100": [
+        null,
+        null,
+        null
+    ],
+    "france:F10_AMX_50B": [
+        null,
+        null,
+        null
+    ],
+    "france:F17_AMX_13_90": [
+        null,
+        null,
+        null
+    ],
+    "france:F18_Bat_Chatillon25t": [
+        null,
+        null,
+        null
+    ],
+    "france:F27_FCM_36Pak40": [
+        null,
+        null,
+        null
+    ],
+    "france:F28_105_leFH18B2": [
+        1273,
+        null,
+        null
+    ],
+    "france:F38_Bat_Chatillon155_58": [
+        1785,
+        null,
+        null
+    ],
+    "france:F64_AMX_50Fosh_155": [
+        1785,
+        null,
+        1273
+    ],
+    "france:F64_AMX_50Fosh_B": [
+        1785,
+        null,
+        1273
+    ],
+    "france:F65_FCM_50t": [
+        null,
+        null,
+        null
+    ],
+    "france:F68_AMX_Chasseur_de_char_46": [
+        null,
+        null,
+        null
+    ],
+    "germany:G103_RU_251": [
+        null,
+        null,
+        null
+    ],
+    "germany:G104_Stug_IV": [
+        null,
+        null,
+        null
+    ],
+    "germany:G105_T-55_NVA_DDR": [
+        null,
+        null,
+        null
+    ],
+    "germany:G108_PzKpfwII_AusfD": [
+        1273,
+        1785,
+        null
+    ],
+    "germany:G117_Toldi_III": [
+        null,
+        null,
+        null
+    ],
+    "germany:G121_Grille_15_L63": [
+        1273,
+        null,
+        1785
+    ],
+    "germany:G34_S35_captured": [
+        null,
+        null,
+        null
+    ],
+    "germany:G41_DickerMax": [
+        1273,
+        null,
+        1785
+    ],
+    "germany:G42_Maus": [
+        null,
+        null,
+        null
+    ],
+    "germany:G46_T-25": [
+        null,
+        null,
+        null
+    ],
+    "germany:G48_E-25": [
+        1273,
+        null,
+        1785
+    ],
+    "germany:G50_T-15": [
+        null,
+        null,
+        null
+    ],
+    "germany:G51_Lowe": [
+        null,
+        null,
+        null
+    ],
+    "germany:G56_E-100": [
+        null,
+        null,
+        null
+    ],
+    "germany:G73_E50_Ausf_M": [
+        null,
+        null,
+        null
+    ],
+    "germany:G77_PzIV_Schmalturm": [
+        1273,
+        null,
+        null
+    ],
+    "germany:G89_Leopard1": [
+        null,
+        null,
+        null
+    ],
+    "germany:G92_VK7201": [
+        null,
+        null,
+        null
+    ],
+    "japan:J02_Te_Ke": [
+        1273,
+        1785,
+        null
+    ],
+    "japan:J12_Chi_Nu_Kai": [
+        1273,
+        null,
+        null
+    ],
+    "japan:J16_ST_B1": [
+        null,
+        null,
+        null
+    ],
+    "japan:J20_Type_2605": [
+        null,
+        null,
+        null
+    ],
+    "japan:J25_Type_4": [
+        null,
+        null,
+        null
+    ],
+    "sweden:S11_Strv_103B": [
+        1273,
+        1785,
+        null
+    ],
+    "sweden:S15_L_60": [
+        1785,
+        1273,
+        null
+    ],
+    "uk:GB13_FV215b": [
+        null,
+        null,
+        null
+    ],
+    "uk:GB31_Conqueror_Gun": [
+        null,
+        null,
+        null
+    ],
+    "uk:GB48_FV215b_183": [
+        null,
+        null,
+        null
+    ],
+    "uk:GB51_Excelsior": [
+        null,
+        null,
+        null
+    ],
+    "uk:GB63_TOG_II": [
+        null,
+        null,
+        null
+    ],
+    "uk:GB68_Matilda_Black_Prince": [
+        null,
+        null,
+        null
+    ],
+    "uk:GB70_N_FV4202_105": [
+        null,
+        null,
+        null
+    ],
+    "uk:GB71_AT_15A": [
+        1273,
+        null,
+        null
+    ],
+    "uk:GB76_Mk_VIC": [
+        1785,
+        1273,
+        null
+    ],
+    "uk:GB78_Sexton_I": [
+        null,
+        null,
+        null
+    ],
+    "uk:GB86_Centurion_Action_X": [
+        null,
+        null,
+        null
+    ],
+    "uk:GB91_Super_Conqueror": [
+        null,
+        null,
+        null
+    ],
+    "usa:A100_T49": [
+        null,
+        null,
+        null
+    ],
+    "usa:A102_T28_concept": [
+        1273,
+        null,
+        null
+    ],
+    "usa:A111_T25_Pilot": [
+        null,
+        null,
+        null
+    ],
+    "usa:A120_M48A5": [
+        null,
+        null,
+        null
+    ],
+    "usa:A19_T2_lt": [
+        1273,
+        1785,
+        null
+    ],
+    "usa:A21_T14": [
+        null,
+        null,
+        null
+    ],
+    "usa:A43_M22_Locust": [
+        null,
+        null,
+        null
+    ],
+    "usa:A62_Ram-II": [
+        null,
+        null,
+        null
+    ],
+    "usa:A67_T57_58": [
+        null,
+        null,
+        null
+    ],
+    "usa:A69_T110E5": [
+        null,
+        null,
+        null
+    ],
+    "usa:A74_T1_E6": [
+        1273,
+        null,
+        null
+    ],
+    "usa:A80_T26_E4_SuperPershing": [
+        null,
+        null,
+        null
+    ],
+    "usa:A83_T110E4": [
+        null,
+        null,
+        null
+    ],
+    "usa:A84_M48A1": [
+        null,
+        null,
+        null
+    ],
+    "usa:A85_T110E3": [
+        null,
+        null,
+        null
+    ],
+    "usa:A86_T23E3": [
+        null,
+        null,
+        null
+    ],
+    "usa:A88_M53_55": [
+        null,
+        null,
+        null
+    ],
+    "usa:A93_T7_Combat_Car": [
+        1273,
+        1785,
+        null
+    ],
+    "usa:A95_T95_E6": [
+        null,
+        null,
+        null
+    ],
+    "usa:A97_M41_Bulldog": [
+        null,
+        null,
+        null
+    ],
+    "ussr:R105_BT_7A": [
+        null,
+        null,
+        null
+    ],
+    "ussr:R109_T54S": [
+        null,
+        null,
+        null
+    ],
+    "ussr:R19_IS-3": [
+        null,
+        null,
+        null
+    ],
+    "ussr:R31_Valentine_LL": [
+        null,
+        null,
+        null
+    ],
+    "ussr:R32_Matilda_II_LL": [
+        null,
+        null,
+        null
+    ],
+    "ussr:R33_Churchill_LL": [
+        null,
+        null,
+        null
+    ],
+    "ussr:R45_IS-7": [
+        null,
+        null,
+        null
+    ],
+    "ussr:R52_Object_261": [
+        1785,
+        null,
+        null
+    ],
+    "ussr:R56_T-127": [
+        null,
+        null,
+        null
+    ],
+    "ussr:R61_Object252": [
+        null,
+        null,
+        null
+    ],
+    "ussr:R78_SU_85I": [
+        null,
+        null,
+        null
+    ],
+    "ussr:R84_Tetrarch_LL": [
+        1273,
+        null,
+        1785
+    ],
+    "ussr:R86_LTP": [
+        null,
+        null,
+        null
+    ],
+    "ussr:R87_T62A": [
+        null,
+        null,
+        null
+    ],
+    "ussr:R88_Object268": [
+        null,
+        null,
+        null
+    ],
+    "ussr:R89_SU122_44": [
+        1273,
+        null,
+        null
+    ],
+    "ussr:R90_IS_4M": [
+        null,
+        null,
+        null
+    ],
+    "ussr:R93_Object263": [
+        1785,
+        null,
+        null
+    ],
+    "ussr:R95_Object_907": [
+        null,
+        null,
+        null
+    ],
+    "ussr:R96_Object_430": [
+        null,
+        null,
+        null
+    ],
+    "ussr:R97_Object_140": [
+        null,
+        null,
+        null
+    ],
+    "version": "1.0"
+}

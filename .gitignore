@@ -1,0 +1,7 @@
+# ignorise sve
+/*
+
+# sem foldera i njihovih podfoldera
+!/.gitignore
+!/mods
+!/res_mods 
