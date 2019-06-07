@@ -1,0 +1,14 @@
+﻿{
+    "artyMinimapMarkerId": 1,
+    "artyMinimapMarkerSize": 50,
+    "contour_model_id": 0,
+    "enabled": true,
+    "hidden_model_id": 1,
+    "not_visible_model_id": 6,
+    "show_arty": true,
+    "show_focus_marker": true,
+    "show_hide": true,
+    "show_not_visible": true,
+    "useSound": false,
+    "version": 2902
+}

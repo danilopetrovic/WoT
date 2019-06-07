@@ -1,0 +1,9 @@
+﻿{
+    "enabled": true,
+    "groundMarker": true,
+    "icons_size": 50,
+    "mapMarker": true,
+    "mapMarkerColor": 0,
+    "show_time": 3,
+    "version": 2902
+}

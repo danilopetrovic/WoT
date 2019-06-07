@@ -1,0 +1,13 @@
+﻿{
+    "activateMessage": false,
+    "autoActivateWheelMode": false,
+    "buttonAutoMode": [
+        19,
+        [ 56, 184 ]
+    ],
+    "enabled": true,
+    "fixAccuracyInMove": true,
+    "fixWheelCruiseControl": true,
+    "serverTurret": false,
+    "version": 203
+}

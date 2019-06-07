@@ -1,0 +1,17 @@
+﻿{
+    "buttonShowDot": [
+        46,
+        [ 56, 184 ]
+    ],
+    "buttonShowSplash": [
+        44,
+        [ 56, 184 ]
+    ],
+    "enabled": true,
+    "showDotOnDefault": true,
+    "showModeArcade": false,
+    "showModeArty": true,
+    "showModeSniper": true,
+    "showSplashOnDefault": true,
+    "version": 2902
+}

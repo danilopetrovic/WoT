@@ -1,0 +1,12 @@
+﻿{
+    "activated": true,
+    "button": [ 77 ],
+    "color": "#7F7F7F",
+    "color_id": 0,
+    "color_spotted": "#FFD700",
+    "color_spotted_id": 8,
+    "disableSpottedXRay": false,
+    "enabled": true,
+    "method": 0,
+    "version": 2902
+}

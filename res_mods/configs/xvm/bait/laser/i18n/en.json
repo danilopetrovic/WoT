@@ -1,0 +1,15 @@
+﻿{
+    "UI_laser_activated_text": "Activate on start battle",
+    "UI_laser_activated_tooltip": "",
+    "UI_laser_battle_message_activate": "Activated: Lasers",
+    "UI_laser_battle_message_activate_if_aim": "Activated: Lasers, only if enemy aim you",
+    "UI_laser_battle_message_deactivate": "Deactivated: Lasers",
+    "UI_laser_button_text": "Activate Button",
+    "UI_laser_button_tooltip": "",
+    "UI_laser_label_fps_text": "This mod on old computers may cause a decrease FPS",
+    "UI_laser_label_fps_tooltip": "",
+    "UI_laser_name": "b4it - Lasers",
+    "UI_laser_show_only_if_they_see_you_text": "Show only if they see you",
+    "UI_laser_show_only_if_they_see_you_tooltip": "",
+    "version": 2902
+}

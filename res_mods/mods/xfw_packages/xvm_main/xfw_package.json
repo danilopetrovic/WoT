@@ -3,7 +3,7 @@
     "name": "XVM",
     "description": "XVM",
 
-    "version": "7.9.4-dev.9114",
+    "version": "7.9.4.9133",
 
     "dependencies": ["com.modxvm.xfw"],
     "dependencies_optional": [

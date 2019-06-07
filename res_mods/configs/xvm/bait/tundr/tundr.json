@@ -1,0 +1,8 @@
+﻿{
+    "buttonInvert": [ 48 ],
+    "buttonShow": [ 80 ],
+    "enabled": false,
+    "startBattleActivation": false,
+    "startInSniperMode": true,
+    "version": 2902
+}

@@ -1,0 +1,10 @@
+﻿{
+    "DispersionCircleScale": 1,
+    "HorizontalStabilizer": false,
+    "Remove_DamageEffects": false,
+    "Remove_DynamicEffects": false,
+    "ReplaceOriginalCircle": true,
+    "UseServerDispersion": false,
+    "enabled": true,
+    "version": 307
+}
