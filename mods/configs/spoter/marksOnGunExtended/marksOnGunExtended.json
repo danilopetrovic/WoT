@@ -65,7 +65,7 @@
     "font": "$IMELanguageBar",
     "panel": {
         "index": 1,
-        "visible": false,
+        "visible": true,
         "alignY": "bottom",
         "height": 42,
         "width": 54,

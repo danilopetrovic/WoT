@@ -1,5 +1,5 @@
 ﻿{
-    "ACTIVATION_KEYS": [ 258 ],
+    "ACTIVATION_KEYS": [ 52 ],
     "AMMO_BAY": true,
     "AUTOSHOT_DISPERSION_FACTOR": 60,
     "AUTOSHOT_ENABLED": false,
@@ -18,26 +18,26 @@
         [ 29, 157 ]
     ],
     "DRIVER": false,
-    "ENGINE": false,
+    "ENGINE": true,
     "ENOUGH_PIERCING_CHANCE": 85,
     "ENOUGH_PIERCING_CHANCE_MODULE": 60,
     "FRIENDLYFIRE_KEYS": [
         [ 56, 184 ]
     ],
-    "FUEL_TANK": false,
+    "FUEL_TANK": true,
     "GUNNER": false,
     "LOADER": true,
-    "MAX_ARMOR_SAMPLES": 9,
-    "MAX_VEHICLE_SPOTS": 6,
+    "MAX_ARMOR_SAMPLES": 18,
+    "MAX_VEHICLE_SPOTS": 18,
     "MIN_PIERCING_CHANCE": 10,
-    "POINTS_PRESET": 1,
+    "POINTS_PRESET": 5,
     "PREDICTION_CORRECTION": 20,
     "PREDICTION_CORRECTION_AUTO": 0,
     "SHOW_AIM_POINT": false,
     "STICK_OBSTACLES": false,
     "TARGET_INDICATION": true,
     "TARGET_LEAD_TIME": 4.5,
-    "TRACKS": false,
+    "TRACKS": true,
     "TRACKS_FORCE_KEY": [
         34,
         [ 56, 184 ]
